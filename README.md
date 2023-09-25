@@ -2,7 +2,7 @@
 
 Este é um projeto simples de controle de finanças pessoais desenvolvido em JavaScript, HTML e CSS. Ele permite que você registre suas transações financeiras, categorizando-as como entradas ou saídas, e calcula automaticamente seu saldo atual.
 
-![Screenshot do projeto](screenshot.png)
+![Screenshot do projeto](/assets/finance.png)
 
 ## Funcionalidades
 
@@ -21,7 +21,7 @@ Este é um projeto simples de controle de finanças pessoais desenvolvido em Jav
 ## Como Usar
 
 1. Clone este repositório em seu computador:
-git clone https://github.com/seu-usuario/controle-de-financas.git
+git clone https://github.com/oyyago/Finance.git
 
 
 2. Abra o arquivo `index.html` em seu navegador da web.
